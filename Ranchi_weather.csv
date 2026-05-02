@@ -1,0 +1,2 @@
+city,region,temperature_c,humidity,wind_speed_kph,condition,air_quality_pm2_5
+Delhi,Ontario,6.5,43,15.5,Overcast,1.637
