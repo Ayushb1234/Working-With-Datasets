@@ -1,5 +1,5 @@
-city,temp,humidity,condition
-Delhi,6.5,43,Overcast
-Mumbai,30.4,75,Mist
-Bangalore,28.1,66,Partly cloudy
-Kolkata,23.1,94,Mist
+city,temp,humidity,condition,heatwave,temp_category
+Delhi,6.5,43,Overcast,False,Cold
+Mumbai,30.4,75,Mist,False,Moderate
+Bangalore,28.1,66,Partly cloudy,False,Moderate
+Kolkata,23.1,94,Mist,False,Moderate
