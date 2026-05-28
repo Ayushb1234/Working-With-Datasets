@@ -31,3 +31,9 @@ print(result)
 a= np.array([1,2,3,4,5,6])
 reshaped_arr = a.reshape(2,3)
 print(reshaped_arr)
+
+# Write a program for an employee for his details employee_id,name,salary,ep,etc and the condition is if a particular employee has ep of 5 yrs he will receive salary and bonus of 5 or 2 % .
+
+
+# Pandas -> It is a library in python that is used for data manipulation and analysis. It provides data structures like Series and DataFrame which are very useful for handling and analyzing data.
+# ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------

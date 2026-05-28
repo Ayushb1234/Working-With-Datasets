@@ -1,0 +1,6 @@
+Employee_ID,Salesperson_Name,Region,Product_Category,Monthly_Sales,Target_Achieved_%,Years_of_Experience,Sales_target
+101,Rahul,North,Laptop,250000.0,95.0,2,262500.0
+102,Priya,South,Mobile,180000.0,88.0,4,210000.0
+103,Aman,East,Furniture,215000.0,92.66666666666667,6,210000.0
+104,Sneha,West,Tablet,215000.0,92.66666666666667,3,210000.0
+105,Karan,Central,Accessories,215000.0,95.0,1,157500.0
